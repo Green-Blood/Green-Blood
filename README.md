@@ -2,11 +2,23 @@
 
 ## I'm a Student, Game and Web Developer!
 
-- 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects, and learn more about Game AI
 - ⚡ Fun fact: I love to play games, play guitar, watch anime and doramas.
+
+### My experience 
+- :video_game: GAME DEVELOPMENT
+Several years of experience with the Unity game engine, some experience with Unreal Engine, Renpy and OpenGL
+
+- :bread: WEB DEVELOPMENT
+Full stack development using Laravel, Yii2, Django ASP.NET Framework
+
+- :meat_on_bone: SYSTEM ADMINISTRATION
+Experience with the Linux OS family, experience with nginx, apache. Winning a contest using administration skills
+
+- :mans_shoe: DATA ANALYSIS AND ARTIFICIAL INTELLIGENCE
+Finished Artificial Intelligence, IOT, Wireless Communications courses with the highest grades. Have some experience with OpenCV, Big data analysis, cloud computing and etc.
 
 ### Connect with me:
 

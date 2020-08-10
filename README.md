@@ -1,12 +1,12 @@
-### Hi there, I'm Jey - aka [Green-Blood] 👋
+### Hi there, I'm Jey 👋
 
 ## I'm a Student, Game and Web Developer!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects, and learn more about Game AI 
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to play games, play guitar, watch anime and doramas.
 
 ### Connect with me:
 
@@ -20,7 +20,7 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Green-Blood&show_icons=true&hide_border=true" />
 
 
 [twitter]: https://twitter.com/StrangenGroup

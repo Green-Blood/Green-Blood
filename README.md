@@ -8,16 +8,16 @@
 - ⚡ Fun fact: I love to play games, play guitar, watch anime and doramas.
 
 ### My experience 
-- :video_game: GAME DEVELOPMENT
+- :video_game: Game development: 
 Several years of experience with the Unity game engine, some experience with Unreal Engine, Renpy and OpenGL
 
-- :bread: WEB DEVELOPMENT
+- :bread: Web Development:
 Full stack development using Laravel, Yii2, Django ASP.NET Framework
 
-- :meat_on_bone: SYSTEM ADMINISTRATION
+- :meat_on_bone: System Administration:
 Experience with the Linux OS family, experience with nginx, apache. Winning a contest using administration skills
 
-- :mans_shoe: DATA ANALYSIS AND ARTIFICIAL INTELLIGENCE
+- :mans_shoe: Data Analytics and Artificial Intelligence 
 Finished Artificial Intelligence, IOT, Wireless Communications courses with the highest grades. Have some experience with OpenCV, Big data analysis, cloud computing and etc.
 
 ### Connect with me:

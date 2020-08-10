@@ -20,7 +20,7 @@
 
 
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Green-Blood&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Green-Blood&show_icons=true&hide_border=true&count_private=true" />
 
 
 [twitter]: https://twitter.com/StrangenGroup

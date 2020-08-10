@@ -15,12 +15,9 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
-<br />
-<br />
-
-
-
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Green-Blood&show_icons=true&hide_border=true&count_private=true" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Blood)](https://github.com/Green-Blood/github-readme-stats)
 
 
 [twitter]: https://twitter.com/StrangenGroup

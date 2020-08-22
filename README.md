@@ -48,6 +48,13 @@
 [telegram]: https://t.me/bloodyjey
 [facebook]: https://www.facebook.com/JeyBloody
 [arbuzoletters]: https://t.me/Arbuzoletters
-[researchgate]: https://www.researchgate.net/profile/Jamoliddinkhuja_Odilkhujaev
 
 ### Connect with me:
+
+[<img align="left" alt="Green-Blood | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Green-Blood | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Green-Blood | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Green-Blood | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Green-Blood | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="Green-Blood | ArbuzoLetters" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/a-frame.svg" />][arbuzoletters]
+<br/>

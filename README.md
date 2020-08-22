@@ -1,6 +1,6 @@
 ### Hi there, I'm Jey 👋
-[![Website](https://img.shields.io/website?label=ArbuzoLetters&logo=1password&style=for-the-badge&up_message=up&url=https%3A%2F%2Farbuzoletters.000webhostapp.com)
-[![Telegram Badge](https://img.shields.io/twitter/url?color=%232CA5E0&label=ArbuzoLetters&logo=Telegram&logoColor=%232CA5E0&style=for-the-badge&url=https%3A%2F%2Ft.me%2FArbuzoletters)
+![Website](https://img.shields.io/website?label=ArbuzoLetters.com&logo=1password&style=for-the-badge&up_message=up&url=https%3A%2F%2Farbuzoletters.000webhostapp.com)
+![Telegram Badge](https://img.shields.io/twitter/url?color=%232CA5E0&label=Записки Арбузика&logo=Telegram&logoColor=%232CA5E0&style=for-the-badge&url=https%3A%2F%2Ft.me%2FArbuzoletters)
 
 ## I'm a Student, Game and Web Developer!
 

@@ -57,5 +57,7 @@
 [<img align="left" alt="Green-Blood | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Green-Blood | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Green-Blood | ArbuzoLetters" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/a-frame.svg" />][arbuzoletters]
-[<img align="left" alt="Green-Blood | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][<a href = "mailto: bloodjey98@gmail.com"> <a>]
+[<img align="left" alt="Green-Blood | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:sdey9@uic.edu "Connect via Email")
+
+
 <br/>

@@ -33,7 +33,7 @@
 - [Interview for Captiverooms](https://www.youtube.com/watch?v=cwSH94HMgbM)
 <!-- YOUTUBE:END -->
  
- ### 📺 Stats
+ ### :notebook_with_decorative_cover: Waka Stats
  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

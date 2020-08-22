@@ -33,9 +33,7 @@
 
 <img align="left" alt="Grreen-Blood's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Green-Blood&show_icons=true&hide_border=true&count_private=true" />
 
-<details>
-  <summary>:zap: Recent Github Activity</summary>
-  
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 

@@ -1,4 +1,6 @@
-### Hi there, I'm Jey 👋
+### Hi there, I'm Jey[website] 👋
+[![Website](https://img.shields.io/website?label=arbuzoletters.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arbuzoletters.000webhostapp.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/StranGen?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fstrangen&screen_name=StranGen)
 
 ## I'm a Student, Game and Web Developer!
 
@@ -17,6 +19,13 @@
   Experience with the Linux OS family, experience with nginx, apache. Winning a contest using administration skills
 - :mans_shoe: Data Analytics and Artificial Intelligence
   Finished Artificial Intelligence, IOT, Wireless Communications courses with the highest grades. Have some experience with OpenCV, Big data analysis, cloud computing and etc.
+
+# 📕 Latest Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Green-Blood&show_icons=true&hide_border=true&count_private=true" />
 

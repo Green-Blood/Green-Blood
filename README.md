@@ -22,6 +22,7 @@
 
 # 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Hello world!](https://arbuzoletters.000webhostapp.com/2020/08/hello-world?utm_source=rss&utm_medium=rss&utm_campaign=hello-world)
 <!-- BLOG-POST-LIST:END -->
 
 ### Spotify Playing 🎧

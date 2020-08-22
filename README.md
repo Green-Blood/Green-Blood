@@ -28,6 +28,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Deus Ex Machina Final assignment](https://www.youtube.com/watch?v=B3YoGyrOTgY)
+- [Capstone Assignment2,3 (Deus Ex Machina)](https://www.youtube.com/watch?v=BNZEw823_5w)
+- [Interview for Captiverooms](https://www.youtube.com/watch?v=cwSH94HMgbM)
 <!-- YOUTUBE:END -->
  
 

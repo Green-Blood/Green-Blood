@@ -1,6 +1,6 @@
 ### Hi there, I'm Jey 👋
-![Website](https://img.shields.io/website?label=ArbuzoLetters.com&logo=1password&style=for-the-badge&up_message=up&url=https%3A%2F%2Farbuzoletters.000webhostapp.com)
-![Telegram Badge](https://img.shields.io/twitter/url?color=%232CA5E0&label=ArbuzoLettersChannel&logo=Telegram&logoColor=%232CA5E0&style=for-the-badge&url=https%3A%2F%2Ft.me%2FArbuzoletters)
+[![Website](https://img.shields.io/website?label=arbuzoletters.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arbuzoletters.000webhostapp.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/StrangenGroup?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStrangenGroup&screen_name=StrangenGroup)
 
 ## I'm a Student, Game and Web Developer!
 
@@ -51,11 +51,3 @@
 [researchgate]: https://www.researchgate.net/profile/Jamoliddinkhuja_Odilkhujaev
 
 ### Connect with me:
-
-[<img align="left" alt="Green-Blood | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Green-Blood | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Green-Blood | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Green-Blood | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Green-Blood | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Green-Blood | Researchgate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
-<br/>

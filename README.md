@@ -19,12 +19,12 @@
   Experience with the Linux OS family, experience with nginx, apache. Winning a contest using administration skills
 - :mans_shoe: Data Analytics and Artificial Intelligence
   Finished Artificial Intelligence, IOT, Wireless Communications courses with the highest grades. Have some experience with OpenCV, Big data analysis, cloud computing and etc.
--------
+
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Hello world!](https://arbuzoletters.000webhostapp.com/2020/08/hello-world?utm_source=rss&utm_medium=rss&utm_campaign=hello-world)
 <!-- BLOG-POST-LIST:END -->
--------
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -32,12 +32,12 @@
 - [Capstone Assignment2,3 (Deus Ex Machina)](https://www.youtube.com/watch?v=BNZEw823_5w)
 - [Interview for Captiverooms](https://www.youtube.com/watch?v=cwSH94HMgbM)
 <!-- YOUTUBE:END -->
- -------
+
  ### :notebook_with_decorative_cover: Waka Stats
  <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
- -------
+
 
 <img align="left" alt="Grreen-Blood's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Green-Blood&show_icons=true&hide_border=true&count_private=true" />
 

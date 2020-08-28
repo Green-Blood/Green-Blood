@@ -22,8 +22,7 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Herasim](https://arbuzoletters.000webhostapp.com/2020/08/herasim?utm_source=rss&utm_medium=rss&utm_campaign=herasim)
-- [Hello world!](https://arbuzoletters.000webhostapp.com/2020/08/hello-world?utm_source=rss&utm_medium=rss&utm_campaign=hello-world)
+- [Herasim-part1](https://arbuzoletters.000webhostapp.com/2020/08/herasim-part1-2?utm_source=rss&utm_medium=rss&utm_campaign=herasim-part1-2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos

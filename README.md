@@ -22,6 +22,7 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Herasim part-2](https://arbuzoletters.000webhostapp.com/2020/11/herasim-part-2?utm_source=rss&utm_medium=rss&utm_campaign=herasim-part-2)
 - [Herasim-part1](https://arbuzoletters.000webhostapp.com/2020/08/herasim-part1-2?utm_source=rss&utm_medium=rss&utm_campaign=herasim-part1-2)
 <!-- BLOG-POST-LIST:END -->
 

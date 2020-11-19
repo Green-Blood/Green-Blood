@@ -1,5 +1,5 @@
 ### Hi there, I'm Jey 👋
-[![Website](https://img.shields.io/website?label=arbuzoletters.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arbuzoletters.000webhostapp.com/)
+[![Website](https://img.shields.io/website?label=arbuzoletters.cyou&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arbuzoletters.cyou/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/StrangenGroup?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStrangenGroup&screen_name=StrangenGroup)
 
 ## I'm a Student, Game and Web Developer!
@@ -22,7 +22,7 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Hello world!](https://arbuzoletters.000webhostapp.com/2020/08/hello-world?utm_source=rss&utm_medium=rss&utm_campaign=hello-world)
+
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos

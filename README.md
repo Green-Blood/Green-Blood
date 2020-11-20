@@ -22,11 +22,11 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Писатель](http://www.arbuzoletters.cyou/2020/11/%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d0%b5%d0%bb%d1%8c?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25bf%25d0%25b8%25d1%2581%25d0%25b0%25d1%2582%25d0%25b5%25d0%25bb%25d1%258c)
 - [Ночные думы](http://www.arbuzoletters.cyou/2020/11/%d0%bd%d0%be%d1%87%d0%bd%d1%8b%d0%b5-%d0%b4%d1%83%d0%bc%d1%8b?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25bd%25d0%25be%25d1%2587%25d0%25bd%25d1%258b%25d0%25b5-%25d0%25b4%25d1%2583%25d0%25bc%25d1%258b)
 - [Мечта](http://www.arbuzoletters.cyou/2020/11/%d0%bc%d0%b5%d1%87%d1%82%d0%b0?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25bc%25d0%25b5%25d1%2587%25d1%2582%25d0%25b0)
 - [Ленни](http://www.arbuzoletters.cyou/2020/11/%d0%bb%d0%b5%d0%bd%d0%bd%d0%b8?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25bb%25d0%25b5%25d0%25bd%25d0%25bd%25d0%25b8)
 - [Мама](http://www.arbuzoletters.cyou/2020/11/%d0%bc%d0%b0%d0%bc%d0%b0?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25bc%25d0%25b0%25d0%25bc%25d0%25b0)
-- [Еда богов](http://www.arbuzoletters.cyou/2020/11/%d0%b5%d0%b4%d0%b0-%d0%b1%d0%be%d0%b3%d0%be%d0%b2?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25b5%25d0%25b4%25d0%25b0-%25d0%25b1%25d0%25be%25d0%25b3%25d0%25be%25d0%25b2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos

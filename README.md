@@ -32,9 +32,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Deus Ex Machina Final assignment](https://www.youtube.com/watch?v=B3YoGyrOTgY)
-- [Capstone Assignment2,3 (Deus Ex Machina)](https://www.youtube.com/watch?v=BNZEw823_5w)
-- [Interview for Captiverooms](https://www.youtube.com/watch?v=cwSH94HMgbM)
+- [Hero Arena - Official Teaser](https://www.youtube.com/watch?v=gUs_a4OBF6s)
 <!-- YOUTUBE:END -->
 
  ### :notebook_with_decorative_cover: Waka Stats

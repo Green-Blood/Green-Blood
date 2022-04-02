@@ -5,11 +5,11 @@
     alt="adam-pw" /> 
   </p>
 
-## I'm a Student, Game and Web Developer!
+## I'm a Student and Game Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 Goals: Contribute more to Open Source projects, and learn more about Game AI
+- 🥅 Goals: Contribute more to Open Source projects, and learn more about Game engineering
 - ⚡ Fun fact: I love to play games, play guitar, watch anime and doramas.
 -------
 ### My experience
@@ -38,16 +38,24 @@
 - [Hero Arena - Official Teaser](https://www.youtube.com/watch?v=gUs_a4OBF6s)
 <!-- YOUTUBE:END -->
 
- ### :notebook_with_decorative_cover: Waka Stats
- <!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+### 🎯Some of my Stats🎯
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Blood&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<details><summary>Contribution Graph</summary>
+<p align="left">
+<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Green-Blood&theme=chartreuse-dark&no-frame=true" /></p>
+</details>
+
+<details><summary>Trophies</summary>
+<p align="left">
+<img width=900 src="https://github-profile-trophy.vercel.app/?username=Green-Blood&column=7&theme=gruvbox&no-frame=true"/>
+</details>
 
 
-
-<img align="left" alt="Green-Blood's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Green-Blood&show_icons=true&hide_border=true&count_private=true" />
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Blood)](https://github.com/Green-Blood/github-readme-stats)
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Green-Blood&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Green-Blood&theme=chartreuse-dark" />
+</p>  
 
 [twitter]: https://twitter.com/StrangenGroup
 [instagram]: https://www.instagram.com/bloodyjey/

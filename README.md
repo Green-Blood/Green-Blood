@@ -35,7 +35,8 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Hero Arena - Official Teaser](https://www.youtube.com/watch?v=gUs_a4OBF6s)
+- [How to be Prepared for Your First Enemy in a Game and Every Character thereafter. Game Devlog #2](https://www.youtube.com/watch?v=0CR84iUusmQ)
+- [My #1 Devlog: How I Started my own Game Development as a Full Time Student/Worker](https://www.youtube.com/watch?v=WmPxCJVcKGY)
 <!-- YOUTUBE:END -->
 
 ### 🎯Some of my Stats🎯

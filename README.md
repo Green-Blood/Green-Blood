@@ -1,11 +1,11 @@
 ### Hi there, I'm Jey 👋
-[![Website](http://img.shields.io/website?label=arbuzoletters.cyou&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://arbuzoletters.cyou/)
+[![Website](http://img.shields.io/website?label=HomePage&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bit.ly/jey-homepage)
 [![Twitter Follow](https://img.shields.io/twitter/follow/StrangenGroup?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStrangenGroup&screen_name=StrangenGroup)
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Green-Blood&label=Profile%20views&color=green&style=flat"
     alt="adam-pw" /> 
   </p>
 
-## I'm a Student and Game Developer!
+## I'm a Game Studies Masters Student and Senior Unity Developer!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers

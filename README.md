@@ -35,6 +35,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Pitch for President Tech Award](https://www.youtube.com/watch?v=jtizXjSsGoQ)
 - [Quick Game Development Update - New AI System and Gameplay Improvements](https://www.youtube.com/watch?v=ccOZmzhJ2gU)
 - [First Hero of the game - PostProcessing effects Devlog #3](https://www.youtube.com/watch?v=_P3AizfbPuc)
 - [How to be Prepared for Your First Enemy in a Game and Every Character thereafter. Game Devlog #2](https://www.youtube.com/watch?v=0CR84iUusmQ)

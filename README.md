@@ -35,11 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Trailer &quot;Hero Arena&quot;](https://www.youtube.com/watch?v=6P_fh79wiJc)
 - [Pitch for President Tech Award](https://www.youtube.com/watch?v=jtizXjSsGoQ)
 - [Quick Game Development Update - New AI System and Gameplay Improvements](https://www.youtube.com/watch?v=ccOZmzhJ2gU)
 - [First Hero of the game - PostProcessing effects Devlog #3](https://www.youtube.com/watch?v=_P3AizfbPuc)
 - [How to be Prepared for Your First Enemy in a Game and Every Character thereafter. Game Devlog #2](https://www.youtube.com/watch?v=0CR84iUusmQ)
-- [My #1 Devlog: How I Started my own Game Development as a Full Time Student/Worker](https://www.youtube.com/watch?v=WmPxCJVcKGY)
 <!-- YOUTUBE:END -->
 
 ### 🎯Some of my Stats🎯

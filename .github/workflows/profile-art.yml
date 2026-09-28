@@ -1,0 +1,40 @@
+name: Profile art
+on:
+  schedule:
+    - cron: '0 18 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#c1121f&color_dots=#ebedf0,#f4a3a8,#e5484d,#c1121f,#7a0010
+            dist/snake-dark.svg?palette=github-dark&color_snake=#ff3344&color_dots=#161b22,#4a0a10,#7a0010,#c1121f,#ff3344
+
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-blood.json
+
+      - uses: egorthinks/git-bonsai@v1
+        with:
+          commit: false
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A dist profile-3d-contrib output
+          if git commit -m "chore: regenerate profile art"; then
+            git push
+          fi

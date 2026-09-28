@@ -1,0 +1,20 @@
+{
+  "type": "normal",
+  "fileName": "profile-blood.svg",
+  "backgroundColor": "#ffffff",
+  "foregroundColor": "#0d1117",
+  "strongColor": "#c1121f",
+  "weakColor": "#6e7681",
+  "radarColor": "#c1121f",
+  "growingAnimation": true,
+  "contribColors": ["#ebedf0", "#f4a3a8", "#e5484d", "#c1121f", "#7a0010"],
+  "darkMode": {
+    "type": "normal",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#ffffff",
+    "strongColor": "#ff4d5a",
+    "weakColor": "#8b949e",
+    "radarColor": "#c1121f",
+    "contribColors": ["#161b22", "#4a0a10", "#7a0010", "#c1121f", "#ff3344"]
+  }
+}

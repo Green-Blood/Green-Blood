@@ -1,36 +1,33 @@
-### Hi there, I'm Jey 👋
-[![Website](http://img.shields.io/website?label=HomePage&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://bit.ly/jey-homepage)
-[![Twitter Follow](https://img.shields.io/twitter/follow/StrangenGroup?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FStrangenGroup&screen_name=StrangenGroup)
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Green-Blood&label=Profile%20views&color=green&style=flat"
-    alt="adam-pw" /> 
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:c1121f,100:000000&fontColor=ffffff&text=Jey%20Odilkhujaev&fontSize=50&fontAlignY=38&desc=Unity%20Developer%20%C2%B7%20Founder%20@%20StranGen&descAlignY=65" width="100%" alt="Jey Odilkhujaev, Unity Developer and Founder at StranGen" />
 
-## I'm a Game Studies Masters Student and Senior Unity Developer!
+<p align="center">
+  <a href="https://bit.ly/jey-homepage">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Unity+Lead+%40+ITIC;Founder+%40+StranGen;Building+Hero+Arena;Teaching+Unity+at+NUU" />
+      <img alt="Unity Lead at ITIC. Founder at StranGen. Building Hero Arena. Teaching Unity at NUU." src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&pause=1000&color=C1121F&center=true&vCenter=true&width=700&lines=Unity+Lead+%40+ITIC;Founder+%40+StranGen;Building+Hero+Arena;Teaching+Unity+at+NUU" />
+    </picture>
+  </a>
+</p>
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 Goals: Contribute more to Open Source projects, and learn more about Game engineering
-- ⚡ Fun fact: I love to play games, play guitar, watch anime and doramas.
--------
-### My experience
+<p align="center">
+  <a href="https://bit.ly/jey-homepage"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-c1121f?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://bit.ly/Hero_Arena_HomePage"><img alt="Hero Arena" src="https://img.shields.io/badge/Hero_Arena-000000?style=for-the-badge&logo=unity&logoColor=white" /></a>
+  <a href="https://bit.ly/strangenLinktree"><img alt="StranGen" src="https://img.shields.io/badge/StranGen-c1121f?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+</p>
 
-- :video_game: Game development:
-  Several years of experience with the Unity game engine, some experience with Unreal Engine, Renpy and OpenGL
-- :bread: Web Development:
-  Full stack development using Laravel, Yii2, Django ASP.NET Framework
-- :meat_on_bone: System Administration:
-  Experience with the Linux OS family, experience with nginx, apache. Winning a contest using administration skills
-- :mans_shoe: Data Analytics and Artificial Intelligence
-  Finished Artificial Intelligence, IOT, Wireless Communications courses with the highest grades. Have some experience with OpenCV, Big data analysis, cloud computing and etc.
+## Hey, I'm Jey 👋
 
-### 📕 Latest Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [Стремный писатель](http://www.arbuzoletters.cyou/2021/05/%d1%81%d1%82%d1%80%d0%b5%d0%bc%d0%bd%d1%8b%d0%b9-%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d0%b5%d0%bb%d1%8c?utm_source=rss&utm_medium=rss&utm_campaign=%25d1%2581%25d1%2582%25d1%2580%25d0%25b5%25d0%25bc%25d0%25bd%25d1%258b%25d0%25b9-%25d0%25bf%25d0%25b8%25d1%2581%25d0%25b0%25d1%2582%25d0%25b5%25d0%25bb%25d1%258c)
-- [В последнее время…](http://www.arbuzoletters.cyou/2021/04/%d0%b2-%d0%bf%d0%be%d1%81%d0%bb%d0%b5%d0%b4%d0%bd%d0%b5%d0%b5-%d0%b2%d1%80%d0%b5%d0%bc%d1%8f?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25b2-%25d0%25bf%25d0%25be%25d1%2581%25d0%25bb%25d0%25b5%25d0%25b4%25d0%25bd%25d0%25b5%25d0%25b5-%25d0%25b2%25d1%2580%25d0%25b5%25d0%25bc%25d1%258f)
-- [Смысл жизни](http://www.arbuzoletters.cyou/2021/01/%d1%81%d0%bc%d1%8b%d1%81%d0%bb-%d0%b6%d0%b8%d0%b7%d0%bd%d0%b8?utm_source=rss&utm_medium=rss&utm_campaign=%25d1%2581%25d0%25bc%25d1%258b%25d1%2581%25d0%25bb-%25d0%25b6%25d0%25b8%25d0%25b7%25d0%25bd%25d0%25b8)
-- [Мнение окружающих](http://www.arbuzoletters.cyou/2020/12/%d0%bc%d0%bd%d0%b5%d0%bd%d0%b8%d0%b5-%d0%be%d0%ba%d1%80%d1%83%d0%b6%d0%b0%d1%8e%d1%89%d0%b8%d1%85?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25bc%25d0%25bd%25d0%25b5%25d0%25bd%25d0%25b8%25d0%25b5-%25d0%25be%25d0%25ba%25d1%2580%25d1%2583%25d0%25b6%25d0%25b0%25d1%258e%25d1%2589%25d0%25b8%25d1%2585)
-- [Писатель](http://www.arbuzoletters.cyou/2020/11/%d0%bf%d0%b8%d1%81%d0%b0%d1%82%d0%b5%d0%bb%d1%8c?utm_source=rss&utm_medium=rss&utm_campaign=%25d0%25bf%25d0%25b8%25d1%2581%25d0%25b0%25d1%2582%25d0%25b5%25d0%25bb%25d1%258c)
-<!-- BLOG-POST-LIST:END -->
+I lead Unity development at IT Investments Center in Tashkent, where I mentor our junior and middle developers, and I teach Unity at New Uzbekistan University. Getting someone from zero to their first working game is something I like more than I expected to.
+
+My main project is [Hero Arena](https://bit.ly/Hero_Arena_HomePage), a midcore game at my own studio, [StranGen](https://bit.ly/strangenLinktree).
+
+I'm also a full-time web developer, working with TypeScript, React, Next.js and Node on AWS and Azure, and I do consulting.
+
+### 🛠️ Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,ts,js,react,nextjs,nodejs,aws,azure,docker,jenkins,git,linux&perline=8" alt="Unity, C#, TypeScript, JavaScript, React, Next.js, Node.js, AWS, Azure, Docker, Jenkins, Git, Linux" />
+</p>
 
 ### 📺 Latest YouTube Videos
 
@@ -42,42 +39,36 @@
 - [First Hero of the game - PostProcessing effects Devlog #3](https://www.youtube.com/watch?v=_P3AizfbPuc)
 <!-- YOUTUBE:END -->
 
-### 🎯Some of my Stats🎯
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Green-Blood&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🐍 Activity
 
-<details><summary>Contribution Graph</summary>
-<p align="left">
-<img width="90%" src="https://activity-graph.herokuapp.com/graph?username=Green-Blood&theme=chartreuse-dark&no-frame=true" /></p>
-</details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/snake-dark.svg" />
+  <img alt="A snake eating my contribution graph" src="dist/snake.svg" />
+</picture>
 
-<details><summary>Trophies</summary>
-<p align="left">
-<img width=900 src="https://github-profile-trophy.vercel.app/?username=Green-Blood&column=7&theme=gruvbox&no-frame=true"/>
-</details>
+<img alt="My contributions as a 3D city" src="profile-3d-contrib/profile-blood.svg" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Green-Blood&theme=dark&hide_border=true&background=0D1117&ring=C1121F&fire=FF3344&currStreakLabel=FF3344" />
+  <img alt="GitHub streak stats" src="https://streak-stats.demolab.com/?user=Green-Blood&hide_border=true&ring=C1121F&fire=C1121F&currStreakLabel=C1121F" />
+</picture>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Green-Blood&show_icons=true&theme=chartreuse-dark&count_private=true&include_all_commits=true" /> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Green-Blood&theme=chartreuse-dark" />
-</p>  
+<p align="center">
+  <img src="output/bonsai-growth.gif" width="384" alt="My git-bonsai, grown from my commit history" /><br/>
+  <sub>🌳 grown with <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a></sub>
+</p>
 
-[twitter]: https://twitter.com/StrangenGroup
-[instagram]: https://www.instagram.com/bloodyjey/
-[linkedin]: https://www.linkedin.com/in/jey-302206168/
-[telegram]: https://t.me/bloodyjey
-[facebook]: https://www.facebook.com/JeyBloody
-[arbuzoletters]: https://t.me/Arbuzoletters
-[gmail]: mailto:bloodjey98@gmail.com "Connect via Email"
+### Connect with me
 
-### Connect with me:
+<a href="https://www.linkedin.com/in/jeyodilkhujaev/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/bloodyjey/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<a href="https://t.me/bloodyjey"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="https://t.me/Arbuzoletters"><img alt="ArbuzoLetters" src="https://img.shields.io/badge/ArbuzoLetters-26A5E4?style=flat-square&logo=telegram&logoColor=white" /></a>
+<a href="https://discord.gg/GqUUh54"><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
+<a href="https://twitter.com/StrangenGroup"><img alt="X" src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://www.facebook.com/JeyBloody"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+<a href="mailto:bloodjey98@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-c1121f?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-[<img align="left" alt="Green-Blood | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Green-Blood | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Green-Blood | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Green-Blood | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Green-Blood | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Green-Blood | ArbuzoLetters" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/a-frame.svg" />][arbuzoletters]
-[<img align="left" alt="Green-Blood | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+<p align="right"><img src="https://komarev.com/ghpvc/?username=Green-Blood&label=Profile%20views&color=c1121f&style=flat" alt="Profile views" /></p>
 
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,50:c1121f,100:000000&section=footer" width="100%" alt="" />
